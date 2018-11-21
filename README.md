@@ -54,17 +54,17 @@ Link to your sub-projects here. Clone the [sub-project repo](https://github.com/
 
 Link to your Trello boards here:
 
-* Overview
-* Discussions
-* User Stories
-* Investigations
-* Implementations
-* Features
-  * sub-feature (if needed)
-  * ...
-* Design
-  * component (if needed)
-  * ...
-* Tasks
-* Plan
+* [Overview] ()
+* [Discussions] ()
+* [User Stories] ()
+* [Investigations] ()
+* [Implementations] ()
+* [Features]()
+  * [sub-feature (if needed)]()
+  * [...]()
+* [Design]()
+  * [component (if needed)]()
+  * [...]()
+* [Tasks]()
+* [Plan]()
 
